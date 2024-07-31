@@ -53,7 +53,7 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 * [**ArcLight o Software externo(soigot etc)**](#software)
 
-*
+* [**mods + plugins**](#mods+pl)
 
 *
 
@@ -74,4 +74,11 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 #software
 - en la configuracion del servidor elegir la. versión que vas a utilizar y luego vainilla
--descarga el archivo sea soigot, bukit, ArcLight etc, y cámbiale el nombre de **nombre del software.jar** a **vainilla.jar**, en el codespace borra el archivo vainilla.jar de la carpeta de servidor en el codespace y sube tu software renombrado
+- descarga el archivo sea soigot, bukit, ArcLight etc, y cámbiale el nombre de **nombre del software.jar** a **vainilla.jar**, en el codespace borra el archivo vainilla.jar de la carpeta de servidor en el codespace y sube tu software renombrado
+
+#mods+pl
+- para la 1.19.4 fabric descargar el mod **banner**
+- 1.20.4 ArcLight fabric
+- las demás versiones fabric púrpur
+- para forge usar ArcLight en las versiones disponibles
+- 
