@@ -55,7 +55,7 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 * [**mods + plugins**](#mods+pl)
 
-*
+* [**voicechat**](#VC)
 
 *
 #playit
@@ -81,4 +81,11 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 - 1.20.4 ArcLight fabric
 - las demás versiones fabric púrpur
 - para forge usar ArcLight en las versiones disponibles
-- 
+- versiones no disponibles de ArcLight en forge usar MoHist
+
+#VC
+- **mod**
+- descargar el mod y ponerlo en la carpeta mods
+- prender y apagar el servidor
+- entrar en playita y en el túnel crear un puerto **tcp + udp**
+- bajar a al fondo y copiar la ip que empieza por 20 o 21 y luego el puerto, la ip lo pegas dónde dice port y la ip dónde dice host
