@@ -72,3 +72,6 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 - prende y apaga el servidor
 - configura los mods
 
+#software
+- en la configuracion del servidor elegir la. versión que vas a utilizar y luego vainilla
+-descarga el archivo sea soigot, bukit, ArcLight etc, y cámbiale el nombre de **nombre del software.jar** a **vainilla.jar**, en el codespace borra el archivo vainilla.jar de la carpeta de servidor en el codespace y sube tu software renombrado
