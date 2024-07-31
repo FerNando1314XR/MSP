@@ -51,23 +51,24 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 * [**Forge o Fabric**](#Mods)
 
-*
+* [**ArcLight o Software externo(soigot etc)**](#software)
 
 *
 
 *
 
 *
-playit
+#playit
 - apreta enter
 - ctrl + click en el enlace, crea una cuenta en playit y reclama el link
 - selecciona el tipo minecraft java
 - en github apreta ctrl + c
 - la ip te aparece en el principio y en el playit
 
-Mods
+#Mods
 - selecciona el **[1]**
 - una vez el servidor inicie apaga el servidor
 - una vez este apagado configura el serverconfig, pon los mods en la carpeta mods y borra el mundo
 - prende y apaga el servidor
 - configura los mods
+
