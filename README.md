@@ -57,7 +57,7 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 * [**voicechat**](#VC)
 
-*
+*[Java y bedrock](#GeyserMC)
 #playit
 - apreta enter
 - ctrl + click en el enlace, crea una cuenta en playit y reclama el link
@@ -84,8 +84,31 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 - versiones no disponibles de ArcLight en forge usar MoHist
 
 #VC
+
 - **mod**
 - descargar el mod y ponerlo en la carpeta mods
 - prender y apagar el servidor
-- entrar en playita y en el túnel crear un puerto **tcp + udp**
-- bajar a al fondo y copiar la ip que empieza por 20 o 21 y luego el puerto, la ip lo pegas dónde dice port y la ip dónde dice host
+- entrar en playit y en el túnel crear un puerto **tcp + udp**
+- bajar a al fondo y copiar la ip que empieza por 20 o 21 y luego el puerto, en el codespace busca dónde dice  **config** y habré el archivo llamado que diga server, el puerto lo pegas dónde dice port y la ip dónde dice host
+- luego instala el **mod o si estás usando un software descarga el plugin** llamado **luckperms**
+-  Luego inicia el servidor y escribe **/luckperms editor** abre el link y agrega el permiso de voicechat.admim
+- para que funcione debes abrir una terminal (**bash** que es la predeterminada y escribir **playit**)
+
+-**plugin**
+- descargar el plugin y meterlo en la carpeta plugins
+- prender y apagar el servidor
+- entrar en playit y en el túnel crear un puerto **tcp + udp**
+- bajar a al fondo y copiar la ip que empieza por 20 o 21 y luego el puerto, en el codespace busca dónde dice  **config** y habré el archivo llamado que diga server, el puerto lo pegas dónde dice port y la ip dónde dice host
+- luego instala el **mod o si estás usando un software descarga el plugin** llamado **luckperms**
+-  Luego inicia el servidor y escribe **/luckperms editor** abre el link y agrega el permiso de voicechat.admim
+- para que funcione debes abrir una terminal (**bash** que es la predeterminada y escribir **playit**)
+
+#GeyserMc
+- descargar el plugin geysermc y floodgate
+- poner ambos en la carpeta plugins
+- prender y apagar el servidor
+- entrar en playit y en el túnel crear un puerto **tcp + udp**
+- bajar a al fondo y copiar la ip que empieza por 20 o 21 copiar la ip y el puerto, ir al archivo de configuración de geysermc y pegar el puerto dónde dice port y la ip dónde dice **#0.0.0.0**
+-en la carpeta de floodgate en plugins, copiar el archivo key.pem y pegarlo en la carpeta de geysermc luego en el archivo de configuración de geysermc cerca de la línea 100 cambiar el método de verificación a floodgate
+- luego pasar la ip y el puerto a los de bedrock
+- para que funcione debes abrir una terminal (**bash** que es la predeterminada y escribir **playit**)
