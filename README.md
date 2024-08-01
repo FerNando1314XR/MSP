@@ -57,7 +57,7 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 * [**voicechat**](#VC)
 
-*[Java y bedrock](#GeyserMC)
+* [Java y bedrock](#GeyserMC)
 #playit
 - apreta enter
 - ctrl + click en el enlace, crea una cuenta en playit y reclama el link
