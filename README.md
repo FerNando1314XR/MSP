@@ -112,3 +112,10 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 -en la carpeta de floodgate en plugins, copiar el archivo key.pem y pegarlo en la carpeta de geysermc luego en el archivo de configuración de geysermc cerca de la línea 100 cambiar el método de verificación a floodgate
 - luego pasar la ip y el puerto a los de bedrock
 - para que funcione debes abrir una terminal (**bash** que es la predeterminada y escribir **playit**)
+
+
+
+
+
+
+<h1 align="center"> En progreso </h1>
