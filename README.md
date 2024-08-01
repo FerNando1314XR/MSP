@@ -47,17 +47,17 @@ ir a tu servidor de discord, dirigete a ajustes de servidor, luego a interacione
 
 **Paso 9:**
 
-* [**Playit**](#playit)
+* [**Playit**](#playit)     (#playit)
 
-* [**Forge o Fabric**](#Mods)
+* [**Forge o Fabric**](#Mods)    (#mods)
 
-* [**ArcLight o Software externo(soigot etc)**](#software)
+* [**ArcLight o Software externo(soigot etc)**](#software)    (#software)
 
-* [**mods + plugins**](#mods+pl)
+* [**mods + plugins**](#mods+pl)    (#mods+pl)
 
-* [**voicechat**](#VC)
+* [**voicechat**](#VC)    (#VC)
 
-* [Java y bedrock](#GeyserMC)
+* [Java y bedrock](#GeyserMC)    (#GeyserMc)
 #playit
 - apreta enter
 - ctrl + click en el enlace, crea una cuenta en playit y reclama el link
