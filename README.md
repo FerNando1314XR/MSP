@@ -1,4 +1,4 @@
-<h1 align="center"> MSP-MOD-1314 </h1>
+ <h1 align="center"> MSP-MOD-1314 </h1>
 <h3 align="center"> Para usar este script debes seguir a: https://github.com/elyxdev y https://github.com/Luc4st1574 </h3>
 
 <h3 align="center"> Realiza un fork a este gthub para poder usarlo, crea un codespace y selecciona este repositorio, debes asignarle 4 cores y 16 gb </h3>
@@ -45,3 +45,15 @@ en el codespace descarga python y ejecuta el script,luego apreta el 1 para empez
 - borra el archivo vanilla del script y sube el tuyo
 
 <h1 align="center"> configuración </h1>
+
+#skins
+si tienes un software que soporte plugins(paper, MoHist, ArcLight, banner, soigot, bukit etc
+
+instala el plugin "SkinRestorer"
+
+- descárgalo en tu dispositivo y súbelo en la carpeta "plugins"
+
+en caso de que su software no soporte plugins debes descargar el mod "everlastskin" para forge, "SkinRestorer" para fabric
+
+#playit (escencial para que te puedas conectar, los otros servicios no son tan buenos)
+- en la configuración de la versión del servidor, la inicial debes escribir playit dónde te dice de elegir playit, servero etc
