@@ -2,8 +2,8 @@
 <h3 align="center"> Para usar este script debes seguir a: https://github.com/elyxdev y https://github.com/Luc4st1574 </h3>
 
 <h3 align="center"> Realiza uun fork a este gthub para poder usarlo, crea un codespace y selecciona este repositorio, debes asignarle 4 cores y 16 gb </h3>
-** **
-** **
+**__**
+**__**
 
 **Debes eleir entre 4 opciones:**
 
