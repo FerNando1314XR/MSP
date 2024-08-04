@@ -1,59 +1,76 @@
  <h1 align="center"> MSP-MOD-1314 </h1>
 <h3 align="center"> Para usar este script debes seguir a: https://github.com/elyxdev y https://github.com/Luc4st1574 </h3>
 
-<h3 align="center"> Realiza un fork a este gthub para poder usarlo, crea un codespace y selecciona este repositorio, debes asignarle 4 cores y 16 gb </h3>
+<h3 align="center"> Realiza un fork a este gthub para poder usarlo, crea un codespace y selecciona este repositorio, debes asignarle 4 cores y 16 gb, por ultimo instala pyton en el codespace </h3>
 
 
 
 creación de servidor:
 
-primero debes elegir entre:
+deebemos cubrir los siguientes aspectos
 
-forge,fabric,vanilla o paper,MoHist,si deseas usar un software distinto elige vanilla
-
-en el codespace descarga python y ejecuta el script,luego apreta el 1 para empezar la creación.
-
-
-#vanilla
-- escribe vanilla y luego elige la versión
-- inicia el servidor
-
-#forge
-- escribe forge y luego elige la versión
-- inicia el servidor
-
-#fabric
-- escribe fabric y elige la versión
-- inicia el servidor
-
-#paper
-- escribe vanilla y elige la versión
-- inicia el servidor y apágalo
-- dirigete al menú de gestionar con el [2]
-- selecciona instalar paper
-
-#mohist (primero revisa si tú versión está disponible en ArcLight, su está disponible dirigete a la parte de softwares externos)
-- escribe forge y elige la versión
-- inicia el servidor y apágalo
-- dirigete al menú de gestionar [2]
-- selecciona instalar mohist
+ - software
+ - conneccion al servidor
+ - voicechat
+ - java y bedrock
+ - copias de seguridad
 
 #software
-- primero descarga en tu dispositivo el software
-- cámbiale el nombre a vanilla
-- en el script debes elegir vanilla y la misma versión del software que descargaste
-- borra el archivo vanilla del script y sube el tuyo
 
-<h1 align="center"> configuración </h1>
+ - forge
+ - mohist
+ - arclight
+ - fabric
+ - purpur
+ - banner
 
-#skins
-si tienes un software que soporte plugins(paper, MoHist, ArcLight, banner, soigot, bukit etc
+   #forge
+   - apreta en crear servidor
+   - escribe forge
+   - escribe la version (ejemplo 1.19.2)
+   - escribe 10
+   - ve al paso de coneccion al servidor
+  
+   #mohist (primero revisa si la version esta en arclight)
+   - apreta en crear servidor
+   - escribe forge
+   - escribe la version (ejemplo 1.19.2)
+   - escribe 10
+   - ve al paso de coneccion al servidor
+   - en el menu aparece [1] iniciar servidor
+  
+     #arclight
+     - d
+     - d
+    
+     #fabric
+     -d
+     -d
 
-instala el plugin "SkinRestorer"
+     #purpur
+     -d
+     -d
 
-- descárgalo en tu dispositivo y súbelo en la carpeta "plugins"
+     banner
+     -d
+     -d
 
-en caso de que su software no soporte plugins debes descargar el mod "everlastskin" para forge, "SkinRestorer" para fabric
+#coneccion al servidor
+- selecciona playit
+- apreta [N] en las actualizaciones de discord
+- inicia el servidor
+- reclama tu playit
+- ahi tienes la IP
 
-#playit (escencial para que te puedas conectar, los otros servicios no son tan buenos)
-- en la configuración de la versión del servidor, la inicial debes escribir playit dónde te dice de elegir playit, servero etc
+  #voicechat
+  -mods
+   - descargar el mods
+   - instalar el mod en cliente en servidor
+   -  iniciar el servidor
+   -  apagar el servidor
+   -  descargar en cliente y en servidor el mod luckperms
+   -  en playit crea un tunel tcp+udp
+   -  dirigete a la pagina inferior de configuracion del tunerl y copia la ip y el puerto
+   -  en la carpeta config del servidor encontraras la carpeta voicechat en el archivo voicechaat server properties pega el puert donde dice port y la ip donde dice bind addres
+   -  cada vez que inicies el servidor deberas abrir un bash y escribir playit
+  
